@@ -24,6 +24,7 @@ Code for detecting visual concepts in images.
   make pycaffe
   cd ../../
   ```
+1. Also need to install `nltk` and its corpus `punkt` for tokonizers. 
 
 0. Get the COCO images, caffe imagenet models, pretrained models on COCO.
 
